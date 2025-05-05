@@ -1,0 +1,19 @@
+#title
+{
+    background-color:rgb(255, 255, 255);
+}
+.navbar-brand
+{
+    font-family: 'Poiret One', cursive;
+}
+.icon:hover{
+    color:orange;
+ }
+
+
+
+#signin-modal
+{
+    position: absolute;
+    right: 50%;
+}
